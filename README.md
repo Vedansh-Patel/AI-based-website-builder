@@ -33,8 +33,4 @@ MobileCrafter is a simplified web-based mobile app builder that allows users to 
 ## Project Structure
 See the `src/` folder for application code, `prisma/` for schema, and `scripts/` for utilities.
 
-## README Constraints
-This README intentionally avoids emoji characters.
 
-## License
-MIT
